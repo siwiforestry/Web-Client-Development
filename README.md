@@ -47,7 +47,7 @@ console.log(`Area: ${circleProperties.area}`);
 ```
 Input : radius = 5
 Output:
-iameter: 10
+Diameter: 10
 Circumference: 31.41592653589793
 Area: 9817.477042468103
 
