@@ -20,8 +20,8 @@ function calculateRectangleArea(length, width) {
   const area = calculateRectangleArea(length, width);
   console.log(`The area of rectangle is ${area}`);
 ```
-  Input: Length = 5, width = 3
-  Output:
+  - Input: Length = 5, width = 3
+  - Output:
   The area of rectangle is 15
 
 ## Circle
