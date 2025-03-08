@@ -45,8 +45,8 @@ console.log(`Diameter: ${circleProperties.diameter}`);
 console.log(`Circumference: ${circleProperties.circumference}`);
 console.log(`Area: ${circleProperties.area}`);
 ```
-Input : radius = 5
-Output:
+- Input : radius = 5
+- Output:
 Diameter: 10
 Circumference: 31.41592653589793
 Area: 9817.477042468103
@@ -65,8 +65,8 @@ const angle2 = 65; // Second angle in degrees
 const angle3 = findThirdAngle(angle1, angle2); // Calculate the third angle
 console.log(`The third angle is ${angle3} degrees`); // Output the third angle
 ```
-Input : a = 80, b = 65
-Output:
+- Input : a = 80, b = 65
+- Output:
 The third angle is 35 degrees
 
 ## Different between dates in days
@@ -89,8 +89,8 @@ const date2 = '2024-03-21';
 const differenceInDays = getDifferenceInDays(date1, date2);
 console.log(`The difference between the two dates is ${differenceInDays} days`);
 ```
-input: date1 = 2024-03-19, date2 = 2024-03-21
-Output:
+- input: date1 = 2024-03-19, date2 = 2024-03-21
+- Output:
 The difference between the two dates is 2 days
 
 ## Print name initial in Uppercase
@@ -110,8 +110,8 @@ const name = 'John Doe';
 const initials = getInitials(name);
 console.log(`The initials are ${initials}`);
 ```
-input: John Doe
-Output:
+- input: John Doe
+- Output:
 The initials are JD
 
 
